@@ -1,0 +1,18 @@
+body{
+  padding:20px;
+}
+  #form{
+    background-color: aqua;
+    border:1px solid black;
+    padding:10px;
+    margin-bottom:100px;
+  }
+  #table{
+    background-color: lightblue;
+    border:1px solid black;
+    padding:10px;
+  }
+table,th,td{
+  border:1px solid black;
+  padding:5px;
+}
